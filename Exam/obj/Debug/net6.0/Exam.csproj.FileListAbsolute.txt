@@ -1,0 +1,30 @@
+C:\Users\passa\Downloads\Exam Solution\Exam\bin\Debug\net6.0\Exam.exe
+C:\Users\passa\Downloads\Exam Solution\Exam\bin\Debug\net6.0\Exam.deps.json
+C:\Users\passa\Downloads\Exam Solution\Exam\bin\Debug\net6.0\Exam.runtimeconfig.json
+C:\Users\passa\Downloads\Exam Solution\Exam\bin\Debug\net6.0\Exam.dll
+C:\Users\passa\Downloads\Exam Solution\Exam\bin\Debug\net6.0\Exam.pdb
+C:\Users\passa\Downloads\Exam Solution\Exam\obj\Debug\net6.0\Exam.csproj.AssemblyReference.cache
+C:\Users\passa\Downloads\Exam Solution\Exam\obj\Debug\net6.0\Exam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\passa\Downloads\Exam Solution\Exam\obj\Debug\net6.0\Exam.AssemblyInfoInputs.cache
+C:\Users\passa\Downloads\Exam Solution\Exam\obj\Debug\net6.0\Exam.AssemblyInfo.cs
+C:\Users\passa\Downloads\Exam Solution\Exam\obj\Debug\net6.0\Exam.csproj.CoreCompileInputs.cache
+C:\Users\passa\Downloads\Exam Solution\Exam\obj\Debug\net6.0\Exam.dll
+C:\Users\passa\Downloads\Exam Solution\Exam\obj\Debug\net6.0\refint\Exam.dll
+C:\Users\passa\Downloads\Exam Solution\Exam\obj\Debug\net6.0\Exam.pdb
+C:\Users\passa\Downloads\Exam Solution\Exam\obj\Debug\net6.0\Exam.genruntimeconfig.cache
+C:\Users\passa\Downloads\Exam Solution\Exam\obj\Debug\net6.0\ref\Exam.dll
+C:\Users\passa\Downloads\ASP.NET\Exam Solution\Exam Solution\Exam\bin\Debug\net6.0\Exam.exe
+C:\Users\passa\Downloads\ASP.NET\Exam Solution\Exam Solution\Exam\bin\Debug\net6.0\Exam.deps.json
+C:\Users\passa\Downloads\ASP.NET\Exam Solution\Exam Solution\Exam\bin\Debug\net6.0\Exam.runtimeconfig.json
+C:\Users\passa\Downloads\ASP.NET\Exam Solution\Exam Solution\Exam\bin\Debug\net6.0\Exam.dll
+C:\Users\passa\Downloads\ASP.NET\Exam Solution\Exam Solution\Exam\bin\Debug\net6.0\Exam.pdb
+C:\Users\passa\Downloads\ASP.NET\Exam Solution\Exam Solution\Exam\obj\Debug\net6.0\Exam.csproj.AssemblyReference.cache
+C:\Users\passa\Downloads\ASP.NET\Exam Solution\Exam Solution\Exam\obj\Debug\net6.0\Exam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\passa\Downloads\ASP.NET\Exam Solution\Exam Solution\Exam\obj\Debug\net6.0\Exam.AssemblyInfoInputs.cache
+C:\Users\passa\Downloads\ASP.NET\Exam Solution\Exam Solution\Exam\obj\Debug\net6.0\Exam.AssemblyInfo.cs
+C:\Users\passa\Downloads\ASP.NET\Exam Solution\Exam Solution\Exam\obj\Debug\net6.0\Exam.csproj.CoreCompileInputs.cache
+C:\Users\passa\Downloads\ASP.NET\Exam Solution\Exam Solution\Exam\obj\Debug\net6.0\Exam.dll
+C:\Users\passa\Downloads\ASP.NET\Exam Solution\Exam Solution\Exam\obj\Debug\net6.0\refint\Exam.dll
+C:\Users\passa\Downloads\ASP.NET\Exam Solution\Exam Solution\Exam\obj\Debug\net6.0\Exam.pdb
+C:\Users\passa\Downloads\ASP.NET\Exam Solution\Exam Solution\Exam\obj\Debug\net6.0\Exam.genruntimeconfig.cache
+C:\Users\passa\Downloads\ASP.NET\Exam Solution\Exam Solution\Exam\obj\Debug\net6.0\ref\Exam.dll
